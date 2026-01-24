@@ -1,7 +1,8 @@
 # cop-3710-Crime_Stats_Database
 Project Scope:
 Designing a database to track homicides and create a hotspot ranking and 
-track trends based on factors such as age, race, sex, ethnicity of victims and perpetrators 
+track trends based on factors such as: age, race, sex, location, agency that made arrest, 
+state, year, month, type of crime, ethnicity of victims and perpetrators 
 and also the relationship between victim and perpetrator and murder weapon
 
 Users:
