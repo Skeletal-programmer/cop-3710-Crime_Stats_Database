@@ -11,3 +11,6 @@ Such as with copycat killers or killers who belong to similar groups (Extreme gr
 
 Data Sources:
 Dataset used is a collection of homicide reports from 1980-204 compiled by the Murder accountability project
+
+Database Application:
+I will be using Oracle as my database of choice since thats the one I have used so far in this class.
